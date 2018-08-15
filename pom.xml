@@ -50,6 +50,13 @@
 			<version>1.4.5.RELEASE</version>
 		</dependency>
 
+		<!--springCloud Hystrix Dashboard (Hystrix 仪表盘)-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-hystrix-dashboard</artifactId>
+			<version>1.4.5.RELEASE</version>
+		</dependency>
+
 		<!-- 热部署 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
